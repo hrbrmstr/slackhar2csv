@@ -12,7 +12,7 @@ Requires [jq](https://stedolan.github.io/jq/).
 ./slackhar2csv.sh <JSON_INPUT_FILE> <CSV_OUTPUT_FILE>
 ```
 
-Longer blather on how to create the HAR file:
+## Longer blather on how to create the HAR file:
 
 - Be in a browser (Chromium ones work best for this) tab with a target Slack channel and at the most recent channel history
 - Open "Developer Tools"
